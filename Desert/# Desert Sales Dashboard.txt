@@ -1,0 +1,45 @@
+# Desert Sales Dashboard
+
+## 📌 Description
+This project is a Power BI dashboard designed to analyze the sales performance of the Desert business.  
+It provides interactive insights into revenue, products, and sales trends, helping stakeholders understand business performance clearly and quickly.
+
+## 🎯 Objective
+The main objectives of this project are to:
+- Monitor overall sales performance  
+- Identify sales trends over time  
+- Discover best-selling products  
+- Support better decision making using data visualization  
+
+## 🛠 Tools & Technologies
+- Power BI  
+- Excel  
+- Data Cleaning  
+- Data Modeling  
+- Data Visualization  
+
+## 📊 Dataset
+The dataset contains sales transaction data, including:
+- Date  
+- Product  
+- Category  
+- Quantity sold  
+- Sales amount (Revenue)  
+- Additional sales-related information  
+
+## ⚙ Features
+- Total sales and performance overview  
+- Sales trend analysis  
+- Top-selling products  
+- Revenue distribution by category  
+- Interactive filters and slicers  
+- Clear and simple visual design  
+
+## 🚀 How to Run
+1. Open the file `desert.pbix` using Power BI Desktop  
+2. Refresh the data if needed  
+3. Use slicers and filters to explore the dashboard  
+
+## 👤 Author
+** kyrillos Amir**  
+Junior Data Analyst | Power BI & Data Visualization
