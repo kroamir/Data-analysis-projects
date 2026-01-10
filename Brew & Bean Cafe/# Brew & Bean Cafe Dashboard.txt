@@ -1,0 +1,35 @@
+# Brew & Bean Cafe Dashboard
+
+## 📌 Description
+This project is a Power BI dashboard designed to analyze sales performance of Brew & Bean Cafe. It provides insights into revenue, customer behavior, and product performance.
+
+## 🎯 Objective
+To help decision makers understand business performance and identify growth opportunities using data visualization.
+
+## 🛠 Tools & Technologies
+- Power BI
+- Excel
+- Data Cleaning & Modeling
+
+## 📊 Dataset
+The dataset contains sales transactions including:
+- Date
+- Product
+- Category
+- Revenue
+- Customer details
+
+## ⚙ Features
+- Sales trends analysis
+- Top-selling products
+- Revenue by category
+- Interactive filters
+
+## 🚀 How to Run
+1. Download the `.pbix` file  
+2. Open it using Power BI Desktop  
+3. Refresh the data if needed  
+
+## 👤 Author
+Kyrillos Amir  
+Junior Data Analyst
