@@ -1,0 +1,46 @@
+# Radiance Lounge Dashboard
+
+## 📌 Description
+This project is a Power BI dashboard created to analyze the sales performance of Radiance Lounge.  
+It provides clear and interactive insights into revenue, products, and customer purchasing behavior to support data-driven decision making.
+
+## 🎯 Objective
+The main objectives of this project are to:
+- Track overall sales performance  
+- Identify sales trends over time  
+- Discover best-selling products  
+- Analyze revenue distribution  
+- Support better business decisions using data visualization  
+
+## 🛠 Tools & Technologies
+- Power BI  
+- Excel  
+- Data Cleaning  
+- Data Modeling  
+- Data Visualization  
+
+## 📊 Dataset
+The dataset contains sales transaction data, including:
+- Date  
+- Product name  
+- Category  
+- Quantity sold  
+- Sales amount (Revenue)  
+- Customer-related information  
+
+## ⚙ Features
+- Total sales and performance overview  
+- Sales trends analysis  
+- Top-selling products  
+- Revenue breakdown by category  
+- Interactive filters and slicers  
+- Clean and easy-to-read visual layout  
+
+## 🚀 How to Run
+1. Open the file `Radiance Lounge.pbix` using Power BI Desktop  
+2. Refresh the data if required  
+3. Explore the dashboard using slicers and visuals  
+
+## 👤 Author
+**kyrillos Amir**  
+Junior Data Analyst | Power BI & Data Visualization
